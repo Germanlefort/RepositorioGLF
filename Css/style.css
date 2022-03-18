@@ -3,8 +3,6 @@
 	font-family:Roboto;sans-serif;;
 	margin: 0px;
 	padding: 1px;
-
-
 }
 html{
 	font-size: 90%;
@@ -13,8 +11,6 @@ body{
 	background-image: url(../img/bubble.png);
 	background-attachment:fixed;
 	overflow:auto;
-	
-	
 }
 
  h1,h2,h3{
@@ -226,5 +222,5 @@ box-sizing:border-box;
  	.contact{width: 50%}
  	.ubicacion{width: 50%}
   }
-  #grad{ 
-  background-color: linear-gradient(orange, blue) }
+
+
